@@ -17,7 +17,7 @@ f3 = frase[-1]
 print(f2)
 print(f3)
 
-espaco = frase.count(" ")
-print(espaco)
+es = frase.count(" ")
+print("Existe: ",es, "frases")
 
 
