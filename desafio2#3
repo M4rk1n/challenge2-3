@@ -16,3 +16,8 @@ f2 = frase[0]
 f3 = frase[-1]
 print(f2)
 print(f3)
+
+espaco = frase.count(" ")
+print(espaco)
+
+
