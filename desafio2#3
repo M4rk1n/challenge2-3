@@ -1,0 +1,18 @@
+frase = input("Frase: ")
+
+
+caps = frase.lower()
+
+a = caps.count("a")
+e =caps.count("e")
+i = caps.count("i")
+o = caps.count("o")
+u = caps.count("u")
+
+print("A:",a,"E:",e, "I:",i, "O:",o, "U:",u)
+
+
+f2 = frase[0]
+f3 = frase[-1]
+print(f2)
+print(f3)
